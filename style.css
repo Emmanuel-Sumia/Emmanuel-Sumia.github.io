@@ -1,0 +1,105 @@
+
+/* Set the font family and size for the entire page */
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    background-image: url(https://coolbackgrounds.io/images/backgrounds/index/disco-dba865f1.png);
+  background-size: cover;
+  background-position: center;
+  }
+  
+  /* Center the content in the page */
+  #all {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  /* Style the headings */
+  h1 {
+    font-size: 32px;
+    margin-bottom: 10px;
+  }
+  
+  h2 {
+    font-size: 28px;
+    margin-bottom: 10px;
+  }
+  
+  h3 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+  
+  h4 {
+    font-size: 20px;
+    margin-bottom: 10px;
+  }
+  
+  /* Style the paragraphs */
+  p {
+    line-height: 1.5;
+    margin-bottom: 20px;
+  }
+  
+  /* Style the emphasis elements */
+  em {
+    font-style: italic;
+  }
+  
+  strong {
+    font-weight: bold;
+  }
+  
+  mark {
+    background-color: yellow;
+  }
+  
+  /* Style the lists */
+  ul {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+  }
+  
+  ol {
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Style the links */
+  a {
+    color: rgba(111, 0, 255, 0.822);
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  /* Style the blockquote */
+  blockquote {
+    margin: 0;
+    padding: 10px;
+    border-left: 5px solid gray;
+    background-color: #f9f9f9dc;
+  }
+  
+  /* Style the Twitter embed */
+  .twitter-tweet {
+    margin: 20px 0;
+  }
+  
+  /* Add a border to the update section */
+  
+    
+  
+  
+
+
+
+
+
+
+
+
