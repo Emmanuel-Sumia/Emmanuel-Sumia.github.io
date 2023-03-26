@@ -66,7 +66,7 @@ body {
   h2 {
     font-size: 28px;
     margin-bottom: 10px;
-    color: white;
+    color: #f9004d;
   }
   
   h3 {
@@ -85,6 +85,7 @@ body {
   p {
     line-height: 1.5;
     margin-bottom: 20px;
+    color: white;
   }
   
   /* Style the emphasis elements */
