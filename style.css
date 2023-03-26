@@ -160,6 +160,12 @@ body {
     transition: .4s;
   }
 
+  .card .button:hover{
+    background-color: transparent;
+    border: 2px solid #f9004d;
+    cursor: pointer;
+  }
+
   /* Style the headings */
   h1 {
     font-size: 32px;
