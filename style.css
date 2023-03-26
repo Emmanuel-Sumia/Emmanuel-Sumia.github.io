@@ -136,11 +136,12 @@ body {
     margin: 25px 0px;
     color: #f9004d;
   }
-  h5 {
+  h6 {
     font-size: 23px;
     margin-bottom: 15px;
     color: white;
   }
+
   .pra p{
     color: #fcfc;
     font-size: 16px;
