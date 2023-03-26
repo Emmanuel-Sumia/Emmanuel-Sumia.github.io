@@ -103,8 +103,8 @@ body {
   .title h5
   {
     color: #f9004d;
-    font-size: 55px;
-    width: 1000px;
+    font-size: 40px;
+    width: 999px;
     margin: 30px auto;
     text-align: center;
   }
@@ -221,7 +221,7 @@ body {
   }
   
   h2 {
-    font-size: 28px;
+    font-size: 22px;
     margin-bottom: 10px;
     color: #f9004d;
   }
