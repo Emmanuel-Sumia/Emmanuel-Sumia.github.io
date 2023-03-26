@@ -160,12 +160,16 @@ body {
     padding: 9px 22px;
     border-radius: 30px;
     transition: .4s;
+
+
   }
 
   .card .button:hover{
     background-color: transparent;
     border: 2px solid #f9004d;
     cursor: pointer;
+    transform: scale(1.2);
+   
   }
   footer
   {
