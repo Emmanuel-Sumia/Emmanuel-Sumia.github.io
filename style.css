@@ -100,15 +100,17 @@ body {
 
   }
 
-  .title h5{
-    color: white;
-    font-size: 75px;
+  .title h5
+  {
+    color: #f9004d;
+    font-size: 25px;
     width: 1130px;
     margin: 30px auto;
     text-align: center;
   }
 
-  .box{
+  .box
+  {
     display:flex;
     justify-content: center;
     align-items: center;
