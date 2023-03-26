@@ -205,6 +205,12 @@ body {
     height: 45px;
     display: flex;
     align-items: center;
+    background: #f9004d;
+    border-radius: 50%;
+    margin: 22px 10px;
+    color: white;
+    text-decoration: none;
+    font-size: 20px;
 
   }
   /* Style the headings */
